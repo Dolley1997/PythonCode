@@ -24,7 +24,7 @@ from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 from keras.models import Sequential
-from keras.layers import Dense,Activation
+from keras.layers import Dense
 from keras.layers import LSTM
 from keras.layers import Dropout
 from sklearn.model_selection import train_test_split
@@ -35,6 +35,8 @@ from sklearn.preprocessing import MinMaxScaler
 import seaborn as sns
 from math import sqrt
 from pandas import datetime
+
+from keras.models import load_model
 # Create the default pairplot
 
 fields = ['Time','Tag','Antenna','rssi']
@@ -151,7 +153,7 @@ savetxt('es2_test.csv', es2_test, delimiter=',')
 #scores = cross_val_score(model, X, y, scoring='accuracy', cv=5, n_jobs=-1)
 #m, s = mean(scores), std(scores)
 
-loaded_dataset = pd.read_csv('es1.csv', header=0)
+loaded_dataset = pd.read_csv('es2_test.csv', header=0)
 changedVal=loaded_dataset.fillna(loaded_dataset.mode())
 values = changedVal.values
 X, y = values[:, :-1], values[:, -1]
@@ -203,8 +205,8 @@ model.add(Dense(1, activation='linear'))
 model.compile(loss='mean_squared_error', optimizer='adam',metrics=['mean_absolute_error','accuracy'])
 model.summary()
 # fit network
-history = model.fit(X_train, Y_train, epochs=800, batch_size=12, validation_data=(X_test, Y_test), verbose=1, shuffle=False)
-
+history = model.fit(X_train, Y_train, epochs=400, batch_size=14, validation_data=(X_test, Y_test), verbose=1, shuffle=False)
+#model.save('lstm_model.h5')
 
 
 plt.plot(history.history['val_mean_absolute_error'])
@@ -226,3 +228,14 @@ plt.legend(['accuracy', 'valACc'], loc='upper right')
 plt.show()
 # make a prediction
 yhat = model.predict(X_train)
+
+ 
+# load model
+model = load_model('lstm_model.h5')
+# summarize model.
+model.summary()
+# split into input (X) and output (Y) variables
+# evaluate the model
+score = model.evaluate(X_train, Y_train, verbose=0)
+print("%s: %.2f%%" % (model.metrics_names[1], score[1]*100))
+print("%s: %.2f%%" % (model.metrics_names[2], score[2]*100))
