@@ -1,0 +1,937 @@
+2020-03-10 16:40:24,141 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:24,142 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:24,142 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:24,143 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QU7  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:24,143 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC2  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:24,143 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:24,144 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:24,144 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:24,145 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:24,145 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QU7  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:24,145 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:24,145 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -57.0
+2020-03-10 16:40:24,145 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q53  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:24,146 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:24,146 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:24,146 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:24,146 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:24,147 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN3  rdr : Adpter  antenna : 4  rssi : -58.0
+2020-03-10 16:40:24,147 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC2  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:24,147 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QD0  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:24,147 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -57.5
+2020-03-10 16:40:24,148 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q53  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:24,148 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:24,148 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:24,188 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:24,189 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:24,189 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QU6  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:24,189 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:24,189 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:24,189 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:24,190 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QD0  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:24,405 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -55.5
+2020-03-10 16:40:24,405 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -55.5
+2020-03-10 16:40:24,405 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:24,405 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:24,406 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:24,406 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q51  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:24,406 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:24,406 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:24,406 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -56.5
+2020-03-10 16:40:24,406 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -57.0
+2020-03-10 16:40:24,407 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q48  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:24,407 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:24,407 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:24,407 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:24,407 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:24,408 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q48  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:24,408 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:24,408 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QD0  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:24,408 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:24,408 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:24,408 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:24,409 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:24,409 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QD0  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:24,409 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:24,409 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC2  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:24,409 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QU6  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:24,409 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:24,663 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:26,214 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QU6  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:26,214 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,214 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,214 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC2  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,215 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QU7  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,215 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QD0  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:26,215 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:26,215 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,215 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -59.5
+2020-03-10 16:40:26,215 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -59.5
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:26,216 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:26,217 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM6  rdr : Adpter  antenna : 4  rssi : -55.5
+2020-03-10 16:40:26,217 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:26,217 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,217 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,217 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,217 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,218 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG7  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:26,218 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -58.0
+2020-03-10 16:40:26,218 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -58.0
+2020-03-10 16:40:26,218 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q48  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,218 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -58.0
+2020-03-10 16:40:26,218 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,219 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN0  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:26,219 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,219 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,219 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q51  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:26,219 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:26,219 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:26,220 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN0  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:26,220 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07QR7  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:26,220 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,220 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,220 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:26,220 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -57.5
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q48  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q51  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC0  rdr : Adpter  antenna : 4  rssi : -57.0
+2020-03-10 16:40:26,221 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH1  rdr : Adpter  antenna : 4  rssi : -58.0
+2020-03-10 16:40:26,222 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:26,222 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,222 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QF9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,222 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,222 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,222 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,223 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,223 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,223 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,223 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,223 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,223 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC1  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,224 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QF9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,224 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QH2  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,224 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q53  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:26,224 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG7  rdr : Adpter  antenna : 4  rssi : -57.0
+2020-03-10 16:40:26,225 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN0  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:26,225 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:26,225 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,225 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -61.0
+2020-03-10 16:40:26,225 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,225 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QF9  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN0  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QF9  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,226 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,227 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,227 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:26,227 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,227 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN0  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:26,227 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:26,228 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,228 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07PW4  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,228 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,228 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:26,228 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07QA6  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:26,229 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:26,229 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,229 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,229 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,229 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,229 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:26,230 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -59.0
+2020-03-10 16:40:26,231 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.5
+2020-03-10 16:40:26,231 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:26,231 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:26,231 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:26,231 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,231 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -57.5
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -57.0
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -57.0
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -57.0
+2020-03-10 16:40:26,232 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:26,233 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:26,233 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:26,233 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:26,233 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:26,234 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:26,235 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,236 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:26,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,679 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:26,680 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,680 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,680 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:26,722 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0YL8E000A07QH1 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0YLE9000A07QR7 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0YL8E000A07QH2 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM6 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10030C0YLE000A07QC0 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10030C0YLE000A07QC1 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QD0 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:40:26,726 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10030C0YLE000A07QU6 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10030C0YLE000A07QU7 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0Y7LE000A07QG8 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 00000000012102007400BCA9 Adpter 3
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07Q53 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07Q52 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07Q51 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07PW4 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10030C0YLE000A07QC2 Adpter 4
+2020-03-10 16:40:26,727 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07Q48 Adpter 4
+2020-03-10 16:40:26,927 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:26,927 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:26,927 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:26,927 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:26,928 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:27,228 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM8 Adpter 4
+2020-03-10 16:40:27,228 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:40:27,427 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:27,428 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:27,428 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:27,428 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:27,428 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:27,677 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:27,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:27,728 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM8 Adpter 4
+2020-03-10 16:40:27,728 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:40:27,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:27,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:27,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:27,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:27,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:27,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:27,930 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:27,930 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:27,930 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:27,930 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:27,930 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:27,930 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:28,177 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:28,177 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:28,178 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:28,230 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM8 Adpter 4
+2020-03-10 16:40:28,230 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:28,231 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.5
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.5
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:28,928 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:29,179 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:29,232 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 00000000012102007400BCA9 Adpter 3
+2020-03-10 16:40:29,232 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:29,428 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:29,678 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:29,678 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:29,733 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:29,902 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:29,903 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q00  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:29,903 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:29,904 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:29,905 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:29,905 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:29,906 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:29,906 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:29,906 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:29,907 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:29,907 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:29,907 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:29,908 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q98  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:29,908 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07Q89  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:29,909 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:29,910 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:29,910 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:29,910 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:29,910 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:29,910 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:29,910 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:30,128 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q49  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT8  rdr : Adpter  antenna : 4  rssi : -59.5
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:30,129 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q49  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT8  rdr : Adpter  antenna : 4  rssi : -57.5
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT8  rdr : Adpter  antenna : 4  rssi : -55.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q49  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:30,130 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:30,149 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -61.0
+2020-03-10 16:40:30,150 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:30,150 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:30,150 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:30,179 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:30,179 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -61.0
+2020-03-10 16:40:30,179 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07PZ3  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:30,179 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07PZ9  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX9  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT7  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QB8  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07PU2  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q53  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QQ6  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,180 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07Q82  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:30,213 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN3  rdr : Adpter  antenna : 4  rssi : -58.0
+2020-03-10 16:40:30,213 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -58.5
+2020-03-10 16:40:30,213 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07Q49  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,213 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07QA9  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:30,213 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q53  rdr : Adpter  antenna : 4  rssi : -67.0
+2020-03-10 16:40:30,213 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX7  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07Q82  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX9  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT7  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT8  rdr : Adpter  antenna : 4  rssi : -51.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07Q89  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07QQ7  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QB8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,214 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07PZ9  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -59.0
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -61.0
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07PZ3  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q15  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q52  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:30,215 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC6  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:30,252 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:30,252 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07Q53 Adpter 4
+2020-03-10 16:40:30,253 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07Q52 Adpter 4
+2020-03-10 16:40:30,253 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07QN3 Adpter 4
+2020-03-10 16:40:30,254 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 11000C0YLE000A07Q16 Adpter 4
+2020-03-10 16:40:30,254 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0Y7LE000A07QG8 Adpter 4
+2020-03-10 16:40:30,334 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07PV9  rdr : Adpter  antenna : 4  rssi : -64.5
+2020-03-10 16:40:30,334 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,335 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT1  rdr : Adpter  antenna : 4  rssi : -56.0
+2020-03-10 16:40:30,335 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QB8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,335 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:30,336 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -59.5
+2020-03-10 16:40:30,336 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX7  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,336 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07QA9  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,336 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:30,337 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,337 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -61.0
+2020-03-10 16:40:30,337 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07Q89  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:30,338 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q15  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:30,338 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:30,338 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC5  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:30,338 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN3  rdr : Adpter  antenna : 4  rssi : -56.0
+2020-03-10 16:40:30,339 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07PY0  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:30,339 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT8  rdr : Adpter  antenna : 4  rssi : -57.5
+2020-03-10 16:40:30,339 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QB0  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,339 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:30,340 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,340 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QT8  rdr : Adpter  antenna : 4  rssi : -57.0
+2020-03-10 16:40:30,340 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT1  rdr : Adpter  antenna : 4  rssi : -56.5
+2020-03-10 16:40:30,341 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YLE9000A07Q05  rdr : Adpter  antenna : 4  rssi : -60.5
+2020-03-10 16:40:30,341 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT3  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,341 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT4  rdr : Adpter  antenna : 4  rssi : -63.5
+2020-03-10 16:40:30,341 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q15  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,342 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX7  rdr : Adpter  antenna : 4  rssi : -61.5
+2020-03-10 16:40:30,342 INFO taglogger [AsyncMessageHandler] tagId : 1000C0YL8E000A07Q89  rdr : Adpter  antenna : 4  rssi : -65.5
+2020-03-10 16:40:30,342 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC5  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:30,343 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07PT2  rdr : Adpter  antenna : 4  rssi : -60.0
+2020-03-10 16:40:30,343 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07QN3  rdr : Adpter  antenna : 4  rssi : -57.5
+2020-03-10 16:40:30,343 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -59.5
+2020-03-10 16:40:30,343 INFO taglogger [AsyncMessageHandler] tagId : 1000C50YLE000A07Q50  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,344 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QB0  rdr : Adpter  antenna : 4  rssi : -65.0
+2020-03-10 16:40:30,344 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07PV9  rdr : Adpter  antenna : 4  rssi : -64.0
+2020-03-10 16:40:30,344 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07PX8  rdr : Adpter  antenna : 4  rssi : -62.0
+2020-03-10 16:40:30,345 INFO taglogger [AsyncMessageHandler] tagId : 10030C0YLE000A07QC3  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:30,345 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG8  rdr : Adpter  antenna : 4  rssi : -61.0
+2020-03-10 16:40:30,685 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:30,685 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -63.0
+2020-03-10 16:40:30,685 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q15  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:30,685 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -62.5
+2020-03-10 16:40:30,685 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q15  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:30,685 INFO taglogger [AsyncMessageHandler] tagId : 11000C0YLE000A07Q16  rdr : Adpter  antenna : 4  rssi : -66.0
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10200C0YLE000A07QT8 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0YLE9000A07Q05 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 11000C0YLE000A07Q16 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10200C0YLE000A07PT3 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10200C0YLE000A07PT4 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 11000C0YLE000A07Q15 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0Y7LE000A07QG8 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10200C0YLE000A07PT2 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10200C0YLE000A07QB8 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07PX7 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07PX8 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 11000C0YLE000A07QA9 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07Q50 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0YL8E000A07Q89 Adpter 4
+2020-03-10 16:40:30,767 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C50YLE000A07QN3 Adpter 4
+2020-03-10 16:40:31,189 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:40:31,190 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:31,190 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:31,190 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:31,191 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:31,191 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:31,269 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:31,678 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:31,684 INFO taglogger [AsyncMessageHandler] tagId : 1000C06YLE000A07QO8  rdr : Adpter  antenna : 4  rssi : -69.5
+2020-03-10 16:40:31,769 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C06YLE000A07QO8 Adpter 4
+2020-03-10 16:40:36,188 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07Q48  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,193 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07Q48
+2020-03-10 16:40:36,194 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,200 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07Q48 zone 4 - zone - door
+2020-03-10 16:40:36,206 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07QN3  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,206 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07QN3
+2020-03-10 16:40:36,206 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07QN3  Reader : zone
+2020-03-10 16:40:36,206 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,208 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07QN3 zone 4 - zone - door
+2020-03-10 16:40:36,209 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QC2  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,209 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QC2
+2020-03-10 16:40:36,209 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QC2  Reader : zone
+2020-03-10 16:40:36,209 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,209 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QC2 zone 4 - zone - door
+2020-03-10 16:40:36,209 INFO taglogger [pool-6-thread-1] Firing an event :00000000012102007400BCA9  antenna source : 3 reader source : Adpter
+2020-03-10 16:40:36,210 INFO taglogger [pool-6-thread-1] Firing Tag OUT via zone_Adpter OUT RULE : 00000000012102007400BCA9
+2020-03-10 16:40:36,211 INFO taglogger [pool-6-thread-1] Fired tag out via rules
+2020-03-10 16:40:36,213 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07PW4  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,214 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07PW4
+2020-03-10 16:40:36,214 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07PW4  Reader : zone
+2020-03-10 16:40:36,214 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,216 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07PW4 zone 4 - zone - door
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07Q51  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07Q51
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07Q51  Reader : zone
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07Q51 zone 4 - zone - door
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07Q52  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07Q52
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07Q52  Reader : zone
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07Q52 zone 4 - zone - door
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07Q53  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07Q53
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07Q53  Reader : zone
+2020-03-10 16:40:36,217 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07Q53 zone 4 - zone - door
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QD0  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07QD0
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10004C0YLE000A07QD0  Reader : zone
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07QD0 zone 4 - zone - door
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] Firing an event :1000C0Y7LE000A07QG8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0Y7LE000A07QG8
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0Y7LE000A07QG8  Reader : zone
+2020-03-10 16:40:36,218 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] inserting object 1000C0Y7LE000A07QG8 zone 4 - zone - door
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QU7  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QU7
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QU7  Reader : zone
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QU7 zone 4 - zone - door
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QU6  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QU6
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QU6  Reader : zone
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QU6 zone 4 - zone - door
+2020-03-10 16:40:36,219 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07QM9
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10004C0YLE000A07QM9  Reader : zone
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07QM9 zone 4 - zone - door
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YLE9000A07QR7  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YLE9000A07QR7
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YLE9000A07QR7  Reader : zone
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] inserting object 1000C0YLE9000A07QR7 zone 4 - zone - door
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QC1  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QC1
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QC1  Reader : zone
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,220 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QC1 zone 4 - zone - door
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QC0  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QC0
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QC0  Reader : zone
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QC0 zone 4 - zone - door
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM6  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07QM6
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10004C0YLE000A07QM6  Reader : zone
+2020-03-10 16:40:36,221 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07QM6 zone 4 - zone - door
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Firing an event :1000C06YLE000A07QO8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C06YLE000A07QO8
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C06YLE000A07QO8  Reader : zone
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] inserting object 1000C06YLE000A07QO8 zone 4 - zone - door
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07QH2  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07QH2
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07QH2  Reader : zone
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07QH2 zone 4 - zone - door
+2020-03-10 16:40:36,222 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07QH1  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,223 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07QH1
+2020-03-10 16:40:36,223 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07QH1  Reader : zone
+2020-03-10 16:40:36,223 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,223 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07QH1 zone 4 - zone - door
+2020-03-10 16:40:36,719 INFO taglogger [pool-6-thread-1] Firing an event :1000C06YLE000A07QF9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,720 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C06YLE000A07QF9
+2020-03-10 16:40:36,720 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C06YLE000A07QF9  Reader : zone
+2020-03-10 16:40:36,720 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,721 INFO taglogger [pool-6-thread-1] inserting object 1000C06YLE000A07QF9 zone 4 - zone - door
+2020-03-10 16:40:36,721 INFO taglogger [pool-6-thread-1] Firing an event :11000C0YLE000A07QA6  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,722 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 11000C0YLE000A07QA6
+2020-03-10 16:40:36,722 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 11000C0YLE000A07QA6  Reader : zone
+2020-03-10 16:40:36,722 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,723 INFO taglogger [pool-6-thread-1] inserting object 11000C0YLE000A07QA6 zone 4 - zone - door
+2020-03-10 16:40:36,724 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07QN0  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,724 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07QN0
+2020-03-10 16:40:36,724 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07QN0  Reader : zone
+2020-03-10 16:40:36,724 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07QN0 zone 4 - zone - door
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] Firing an event :1000C0Y7LE000A07QG7  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0Y7LE000A07QG7
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0Y7LE000A07QG7  Reader : zone
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] inserting object 1000C0Y7LE000A07QG7 zone 4 - zone - door
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07QM8
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10004C0YLE000A07QM8  Reader : zone
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:36,725 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07QM8 zone 4 - zone - door
+2020-03-10 16:40:37,765 INFO taglogger [EventProcessor-EventPoster] XML :
+<propel-packet version="1.5" ctr="1" timestamp="1583838637759">
+  <device name="zone" id="1" ipaddr="127.0.0.1" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838637759">
+    <sensor name="Sensor-zone" id="1" type="RFID" status="NORMAL" lastEventTime="1583838637759">
+      <event timestamp="1583838637759" id="1" type="ITEMIN">
+        <item id="10004C0YLE000A07Q48"/>
+        <item id="1000C50YLE000A07QN3"/>
+        <item id="10030C0YLE000A07QC2"/>
+        <item id="1000C50YLE000A07PW4"/>
+        <item id="1000C50YLE000A07Q51"/>
+        <item id="1000C50YLE000A07Q52"/>
+        <item id="1000C50YLE000A07Q53"/>
+        <item id="10004C0YLE000A07QD0"/>
+        <item id="1000C0Y7LE000A07QG8"/>
+        <item id="10030C0YLE000A07QU7"/>
+        <item id="10030C0YLE000A07QU6"/>
+        <item id="10004C0YLE000A07QM9"/>
+        <item id="1000C0YLE9000A07QR7"/>
+        <item id="10030C0YLE000A07QC1"/>
+        <item id="10030C0YLE000A07QC0"/>
+        <item id="10004C0YLE000A07QM6"/>
+        <item id="1000C06YLE000A07QO8"/>
+        <item id="1000C0YL8E000A07QH2"/>
+        <item id="1000C0YL8E000A07QH1"/>
+        <item id="1000C06YLE000A07QF9"/>
+        <item id="11000C0YLE000A07QA6"/>
+        <item id="1000C50YLE000A07QN0"/>
+        <item id="1000C0Y7LE000A07QG7"/>
+        <item id="10004C0YLE000A07QM8"/>
+      </event>
+    </sensor>
+  </device>
+</propel-packet>
+
+2020-03-10 16:40:38,232 INFO taglogger [pool-6-thread-1] Firing an event :11000C0YLE000A07Q16  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:38,232 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 11000C0YLE000A07Q16
+2020-03-10 16:40:39,179 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:39,179 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:39,179 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:39,179 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:39,179 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:39,179 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:39,704 INFO taglogger [EventProcessor-EventPoster] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:40:39,704 INFO taglogger [EventProcessor-EventPoster] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:40:39,704 INFO taglogger [EventProcessor-EventPoster] Done Posting !
+2020-03-10 16:40:39,706 INFO taglogger [EventProcessor-EventPoster] XML :
+<propel-packet version="1.5" ctr="2" timestamp="1583838639704">
+  <device name="zone" id="1" ipaddr="127.0.0.1" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838639704">
+    <sensor name="Sensor-zone" id="1" type="RFID" status="NORMAL" lastEventTime="1583838639704">
+      <event timestamp="1583838639704" id="2" type="ITEMOUT">
+        <item id="00000000012102007400BCA9"/>
+      </event>
+    </sensor>
+  </device>
+</propel-packet>
+
+2020-03-10 16:40:39,719 INFO taglogger [EventProcessor-EventPoster] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:40:39,719 INFO taglogger [EventProcessor-EventPoster] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:40:39,719 INFO taglogger [EventProcessor-EventPoster] Done Posting !
+2020-03-10 16:40:39,719 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 11000C0YLE000A07Q16  Reader : zone
+2020-03-10 16:40:39,719 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:39,719 INFO taglogger [pool-6-thread-1] inserting object 11000C0YLE000A07Q16 zone 4 - zone - door
+2020-03-10 16:40:40,239 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QC6  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,241 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QC6
+2020-03-10 16:40:40,241 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QC6  Reader : zone
+2020-03-10 16:40:40,241 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,242 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QC6 zone 4 - zone - door
+2020-03-10 16:40:40,242 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07PZ9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,243 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07PZ9
+2020-03-10 16:40:40,243 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07PZ9  Reader : zone
+2020-03-10 16:40:40,243 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,243 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07PZ9 zone 4 - zone - door
+2020-03-10 16:40:40,244 INFO taglogger [pool-6-thread-1] Firing an event :1000C06YLE000A07PX8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,244 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C06YLE000A07PX8
+2020-03-10 16:40:40,244 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C06YLE000A07PX8  Reader : zone
+2020-03-10 16:40:40,244 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] inserting object 1000C06YLE000A07PX8 zone 4 - zone - door
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] Firing an event :1000C06YLE000A07PX7  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C06YLE000A07PX7
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C06YLE000A07PX7  Reader : zone
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] inserting object 1000C06YLE000A07PX7 zone 4 - zone - door
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07PZ3  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07PZ3
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07PZ3  Reader : zone
+2020-03-10 16:40:40,245 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07PZ3 zone 4 - zone - door
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YLE9000A07Q98  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YLE9000A07Q98
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YLE9000A07Q98  Reader : zone
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] inserting object 1000C0YLE9000A07Q98 zone 4 - zone - door
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Firing an event :11000C0YLE000A07Q15  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 11000C0YLE000A07Q15
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 11000C0YLE000A07Q15  Reader : zone
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] inserting object 11000C0YLE000A07Q15 zone 4 - zone - door
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Firing an event :1000C06YLE000A07PX9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C06YLE000A07PX9
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C06YLE000A07PX9  Reader : zone
+2020-03-10 16:40:40,246 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] inserting object 1000C06YLE000A07PX9 zone 4 - zone - door
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07Q49  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07Q49
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10004C0YLE000A07Q49  Reader : zone
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07Q49 zone 4 - zone - door
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing an event :1000C50YLE000A07Q50  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C50YLE000A07Q50
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C50YLE000A07Q50  Reader : zone
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] inserting object 1000C50YLE000A07Q50 zone 4 - zone - door
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07Q89  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07Q89
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07Q89  Reader : zone
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07Q89 zone 4 - zone - door
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07PU2  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07PU2
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07PU2  Reader : zone
+2020-03-10 16:40:40,247 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07PU2 zone 4 - zone - door
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing an event :11000C0YLE000A07QA9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 11000C0YLE000A07QA9
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 11000C0YLE000A07QA9  Reader : zone
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] inserting object 11000C0YLE000A07QA9 zone 4 - zone - door
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07QB8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07QB8
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07QB8  Reader : zone
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07QB8 zone 4 - zone - door
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07Q82  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07Q82
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07Q82  Reader : zone
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07Q82 zone 4 - zone - door
+2020-03-10 16:40:40,248 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07PT2  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07PT2
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07PT2  Reader : zone
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07PT2 zone 4 - zone - door
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YLE9000A07Q00  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YLE9000A07Q00
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YLE9000A07Q00  Reader : zone
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] inserting object 1000C0YLE9000A07Q00 zone 4 - zone - door
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07QQ7  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07QQ7
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07QQ7  Reader : zone
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07QQ7 zone 4 - zone - door
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07PT4  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07PT4
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07PT4  Reader : zone
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,249 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07PT4 zone 4 - zone - door
+2020-03-10 16:40:40,250 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07PT3  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,250 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07PT3
+2020-03-10 16:40:40,250 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07PT3  Reader : zone
+2020-03-10 16:40:40,250 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,250 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07PT3 zone 4 - zone - door
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YL8E000A07QQ6  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YL8E000A07QQ6
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YL8E000A07QQ6  Reader : zone
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] inserting object 1000C0YL8E000A07QQ6 zone 4 - zone - door
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07QT7  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07QT7
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07QT7  Reader : zone
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07QT7 zone 4 - zone - door
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing an event :1000C0YLE9000A07Q05  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0YLE9000A07Q05
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0YLE9000A07Q05  Reader : zone
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] inserting object 1000C0YLE9000A07Q05 zone 4 - zone - door
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07QT8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07QT8
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07QT8  Reader : zone
+2020-03-10 16:40:40,252 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,253 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07QT8 zone 4 - zone - door
+2020-03-10 16:40:40,679 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG9  rdr : Adpter  antenna : 4  rssi : -67.5
+2020-03-10 16:40:40,680 INFO taglogger [AsyncMessageHandler] tagId : 10200C0YLE000A07QB8  rdr : Adpter  antenna : 4  rssi : -66.5
+2020-03-10 16:40:40,680 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:40:40,759 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QC3  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,761 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QC3
+2020-03-10 16:40:40,761 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QC3  Reader : zone
+2020-03-10 16:40:40,761 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,762 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QC3 zone 4 - zone - door
+2020-03-10 16:40:40,762 INFO taglogger [pool-6-thread-1] Firing an event :10030C0YLE000A07QC5  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,762 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10030C0YLE000A07QC5
+2020-03-10 16:40:40,762 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10030C0YLE000A07QC5  Reader : zone
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] inserting object 10030C0YLE000A07QC5 zone 4 - zone - door
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07PV9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10004C0YLE000A07PV9
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10004C0YLE000A07PV9  Reader : zone
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,763 INFO taglogger [pool-6-thread-1] inserting object 10004C0YLE000A07PV9 zone 4 - zone - door
+2020-03-10 16:40:40,764 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07QB0  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,764 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07QB0
+2020-03-10 16:40:40,764 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07QB0  Reader : zone
+2020-03-10 16:40:40,764 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,764 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07QB0 zone 4 - zone - door
+2020-03-10 16:40:40,766 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07PT1  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,766 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 10200C0YLE000A07PT1
+2020-03-10 16:40:40,766 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 10200C0YLE000A07PT1  Reader : zone
+2020-03-10 16:40:40,766 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,767 INFO taglogger [pool-6-thread-1] inserting object 10200C0YLE000A07PT1 zone 4 - zone - door
+2020-03-10 16:40:40,767 INFO taglogger [pool-6-thread-1] Firing an event :1000C0Y7LE000A07PY0  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:40,767 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0Y7LE000A07PY0
+2020-03-10 16:40:40,767 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0Y7LE000A07PY0  Reader : zone
+2020-03-10 16:40:40,767 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:40,767 INFO taglogger [pool-6-thread-1] inserting object 1000C0Y7LE000A07PY0 zone 4 - zone - door
+2020-03-10 16:40:41,728 INFO taglogger [EventProcessor-EventPoster] XML :
+<propel-packet version="1.5" ctr="3" timestamp="1583838641719">
+  <device name="zone" id="1" ipaddr="127.0.0.1" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838641719">
+    <sensor name="Sensor-zone" id="1" type="RFID" status="NORMAL" lastEventTime="1583838641719">
+      <event timestamp="1583838641719" id="3" type="ITEMIN">
+        <item id="11000C0YLE000A07Q16"/>
+        <item id="10030C0YLE000A07QC6"/>
+        <item id="1000C0YL8E000A07PZ9"/>
+        <item id="1000C06YLE000A07PX8"/>
+        <item id="1000C06YLE000A07PX7"/>
+        <item id="1000C0YL8E000A07PZ3"/>
+        <item id="1000C0YLE9000A07Q98"/>
+        <item id="11000C0YLE000A07Q15"/>
+        <item id="1000C06YLE000A07PX9"/>
+        <item id="10004C0YLE000A07Q49"/>
+        <item id="1000C50YLE000A07Q50"/>
+        <item id="1000C0YL8E000A07Q89"/>
+        <item id="10030C0YLE000A07PU2"/>
+        <item id="11000C0YLE000A07QA9"/>
+        <item id="10200C0YLE000A07QB8"/>
+        <item id="1000C0YL8E000A07Q82"/>
+        <item id="10200C0YLE000A07PT2"/>
+        <item id="1000C0YLE9000A07Q00"/>
+        <item id="1000C0YL8E000A07QQ7"/>
+        <item id="10200C0YLE000A07PT4"/>
+        <item id="10200C0YLE000A07PT3"/>
+        <item id="1000C0YL8E000A07QQ6"/>
+        <item id="10200C0YLE000A07QT7"/>
+        <item id="1000C0YLE9000A07Q05"/>
+        <item id="10200C0YLE000A07QT8"/>
+        <item id="10030C0YLE000A07QC3"/>
+        <item id="10030C0YLE000A07QC5"/>
+        <item id="10004C0YLE000A07PV9"/>
+        <item id="10200C0YLE000A07QB0"/>
+        <item id="10200C0YLE000A07PT1"/>
+        <item id="1000C0Y7LE000A07PY0"/>
+      </event>
+    </sensor>
+  </device>
+</propel-packet>
+
+2020-03-10 16:40:41,741 INFO taglogger [EventProcessor-EventPoster] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:40:41,741 INFO taglogger [EventProcessor-EventPoster] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:40:41,741 INFO taglogger [EventProcessor-EventPoster] Done Posting !
+2020-03-10 16:40:45,678 INFO taglogger [AsyncMessageHandler] tagId : 0000000000000000000000F1  rdr : Adpter  antenna : 3  rssi : -65.5
+2020-03-10 16:40:45,928 INFO taglogger [AsyncMessageHandler] tagId : 0000000000000000000000F1  rdr : Adpter  antenna : 3  rssi : -65.0
+2020-03-10 16:40:46,287 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 0000000000000000000000F1 Adpter 3
+2020-03-10 16:40:49,279 INFO taglogger [pool-6-thread-1] Firing an event :00000000012102007400BCA9  antenna source : 3 reader source : Adpter
+2020-03-10 16:40:49,440 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:49,440 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:49,441 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:49,441 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:49,441 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.5
+2020-03-10 16:40:49,441 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.5
+2020-03-10 16:40:49,680 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:49,680 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:49,929 INFO taglogger [AsyncMessageHandler] tagId : 1000C0Y7LE000A07QG9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:50,291 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 1000C0Y7LE000A07QG9 Adpter 4
+2020-03-10 16:40:50,781 INFO taglogger [pool-6-thread-1] Firing an event :1000C0Y7LE000A07QG9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:50,781 INFO taglogger [pool-6-thread-1] Firing Tag IN via zone_Adpter IN RULE : 1000C0Y7LE000A07QG9
+2020-03-10 16:40:50,781 INFO taglogger [pool-6-thread-1] tag : 1 Reader : zonetag : 1000C0Y7LE000A07QG9  Reader : zone
+2020-03-10 16:40:50,781 INFO taglogger [pool-6-thread-1] Fired tag in via rules
+2020-03-10 16:40:50,781 INFO taglogger [pool-6-thread-1] inserting object 1000C0Y7LE000A07QG9 zone 4 - zone - door
+2020-03-10 16:40:50,782 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM9  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:50,782 INFO taglogger [pool-6-thread-1] Firing an event :10200C0YLE000A07QB8  antenna source : 4 reader source : Adpter
+2020-03-10 16:40:51,771 INFO taglogger [EventProcessor-EventPoster] XML :
+<propel-packet version="1.5" ctr="4" timestamp="1583838651743">
+  <device name="zone" id="1" ipaddr="127.0.0.1" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838651743">
+    <sensor name="Sensor-zone" id="1" type="RFID" status="NORMAL" lastEventTime="1583838651743">
+      <event timestamp="1583838651743" id="4" type="ITEMIN">
+        <item id="1000C0Y7LE000A07QG9"/>
+      </event>
+    </sensor>
+  </device>
+</propel-packet>
+
+2020-03-10 16:40:51,838 INFO taglogger [EventProcessor-EventPoster] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:40:51,838 INFO taglogger [EventProcessor-EventPoster] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:40:51,838 INFO taglogger [EventProcessor-EventPoster] Done Posting !
+2020-03-10 16:40:55,789 INFO taglogger [pool-6-thread-1] Firing an event :0000000000000000000000F1  antenna source : 3 reader source : Adpter
+2020-03-10 16:40:55,790 INFO taglogger [pool-6-thread-1] Firing Tag OUT via zone_Adpter OUT RULE : 0000000000000000000000F1
+2020-03-10 16:40:55,790 INFO taglogger [pool-6-thread-1] Fired tag out via rules
+2020-03-10 16:40:55,840 INFO taglogger [EventProcessor-EventPoster] XML :
+<propel-packet version="1.5" ctr="5" timestamp="1583838655839">
+  <device name="zone" id="1" ipaddr="127.0.0.1" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838655839">
+    <sensor name="Sensor-zone" id="1" type="RFID" status="NORMAL" lastEventTime="1583838655839">
+      <event timestamp="1583838655839" id="5" type="ITEMOUT">
+        <item id="0000000000000000000000F1"/>
+      </event>
+    </sensor>
+  </device>
+</propel-packet>
+
+2020-03-10 16:40:55,852 INFO taglogger [EventProcessor-EventPoster] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:40:55,852 INFO taglogger [EventProcessor-EventPoster] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:40:55,852 INFO taglogger [EventProcessor-EventPoster] Done Posting !
+2020-03-10 16:40:56,178 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:40:59,678 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:59,678 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:59,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:59,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:59,791 INFO taglogger [pool-6-thread-1] Firing an event :00000000012102007400BCA9  antenna source : 3 reader source : Adpter
+2020-03-10 16:40:59,930 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:40:59,930 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:00,300 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 00000000012102007400BCA9 Adpter 3
+2020-03-10 16:41:01,929 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:41:02,304 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:41:06,299 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM9  antenna source : 4 reader source : Adpter
+2020-03-10 16:41:09,678 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:41:09,801 INFO taglogger [pool-6-thread-1] Firing an event :00000000012102007400BCA9  antenna source : 3 reader source : Adpter
+2020-03-10 16:41:09,929 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:09,929 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:15,939 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -69.0
+2020-03-10 16:41:16,319 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:41:19,814 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM9  antenna source : 4 reader source : Adpter
+2020-03-10 16:41:20,314 INFO taglogger [pool-6-thread-1] Firing an event :00000000012102007400BCA9  antenna source : 3 reader source : Adpter
+2020-03-10 16:41:20,429 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:20,429 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:20,430 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:21,764 INFO taglogger [ReaderMonitorThread] XML :
+<propel-packet version="1.5" ctr="6" timestamp="1583838681764">
+  <device name="Adpter" id="1" ipaddr="192.168.1.137" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838681764">
+    <sensor name="Sensor-Adpter" id="1" type="RFID" status="NORMAL" lastEventTime="1583838681764"/>
+  </device>
+</propel-packet>
+
+2020-03-10 16:41:21,856 INFO taglogger [ReaderMonitorThread] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:41:21,856 INFO taglogger [ReaderMonitorThread] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:41:21,856 INFO taglogger [ReaderMonitorThread] Done Posting !
+2020-03-10 16:41:21,857 INFO taglogger [ReaderMonitorThread] XML :
+<propel-packet version="1.5" ctr="7" timestamp="1583838681857">
+  <device name="zone" id="1" ipaddr="127.0.0.1" type="PROPELSMARTBIN" capability="RFID" status="NORMAL" lastEventTime="1583838681857">
+    <sensor name="Sensor-zone" id="1" type="RFID" status="NORMAL" lastEventTime="1583838681857"/>
+  </device>
+</propel-packet>
+
+2020-03-10 16:41:21,866 INFO taglogger [ReaderMonitorThread] <?xml version="1.0" encoding="UTF-8"?>
+2020-03-10 16:41:21,866 INFO taglogger [ReaderMonitorThread] <propel-packet name="Device name is invalid"/>
+2020-03-10 16:41:21,866 INFO taglogger [ReaderMonitorThread] Done Posting !
+2020-03-10 16:41:22,179 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
+2020-03-10 16:41:28,178 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.5
+2020-03-10 16:41:28,335 INFO taglogger [IPJ - Listener] Retracting $tag2 :: 10004C0YLE000A07QM9 Adpter 4
+2020-03-10 16:41:30,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:30,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.5
+2020-03-10 16:41:30,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:30,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:30,679 INFO taglogger [AsyncMessageHandler] tagId : 00000000012102007400BCA9  rdr : Adpter  antenna : 3  rssi : -58.0
+2020-03-10 16:41:30,827 INFO taglogger [pool-6-thread-1] Firing an event :00000000012102007400BCA9  antenna source : 3 reader source : Adpter
+2020-03-10 16:41:32,327 INFO taglogger [pool-6-thread-1] Firing an event :10004C0YLE000A07QM9  antenna source : 4 reader source : Adpter
+2020-03-10 16:41:34,928 INFO taglogger [AsyncMessageHandler] tagId : 10004C0YLE000A07QM9  rdr : Adpter  antenna : 4  rssi : -68.0
